@@ -6,7 +6,7 @@ package ilaria.travistest;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void main( String[] args )    
     {
     	if(args.length != 0) {
     		System.out.println( "Hello " + args[0] ); 		
